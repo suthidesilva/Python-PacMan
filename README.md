@@ -19,7 +19,7 @@ To download and run the game:
 ```bash
 git clone https://github.com/suthidesilva/Python-PacMan
 cd Python-PacMan
-python Paceman.py
+python PacMan.py
 ```
 
 ## Contributing
